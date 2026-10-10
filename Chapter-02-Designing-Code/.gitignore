@@ -1,0 +1,6 @@
+# Ignore compiled Windows executables
+*.exe
+
+# Ignore temporary build files
+*.o
+*.obj
